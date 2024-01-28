@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <StartupObject>programs.Practical2.Guess</StartupObject>
+    <StartupObject>programs.Practical2.LeapYear</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
