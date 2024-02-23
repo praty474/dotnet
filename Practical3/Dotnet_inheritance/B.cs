@@ -6,7 +6,7 @@ namespace programs.Practical3.Dotnet_inheritance
     {
          public override void Print()
         {
-            Console.WriteLine("Bibash");
+            Console.WriteLine("Pratyush");
         }
     }
 }
